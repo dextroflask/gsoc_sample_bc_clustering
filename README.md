@@ -40,3 +40,13 @@ The program runs the `bc_clustering` algorithm on 3 different types of graphs:
 ![image](https://github.com/user-attachments/assets/ad2f18bd-b2cd-4286-be8e-f101ee3116fb)
 
 ---
+
+## Graph Visuals
+Drawn on paper
+![WhatsApp Image 2025-04-06 at 16 40 12 (1)](https://github.com/user-attachments/assets/e1c7b541-dfa2-41d3-acef-4f87e3c5d2c1)
+
+![WhatsApp Image 2025-04-06 at 16 40 12](https://github.com/user-attachments/assets/ad6bbc66-f312-4201-a679-c72c5fd4a121)
+
+
+
+---
