@@ -32,9 +32,11 @@ The program runs the `bc_clustering` algorithm on 3 different types of graphs:
 
 ---
 
-## Dependencies
+## Outputs
+![image](https://github.com/user-attachments/assets/bb81c2c3-8b19-4c90-9d1d-9612295d62f8)
 
-- Boost Graph Library (BGL)  
-  Make sure to have Boost installed and properly linked.
+![image](https://github.com/user-attachments/assets/f91f6c08-f713-4936-880b-10b5319ea2a4)
+
+![image](https://github.com/user-attachments/assets/ad2f18bd-b2cd-4286-be8e-f101ee3116fb)
 
 ---
